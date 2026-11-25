@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Voroshilov_pr41\\trpo10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|c:\\voroshilov_pr41\\trpo10\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|c:\\voroshilov_pr41\\trpo10\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|c:\\voroshilov_pr41\\trpo10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|c:\\voroshilov_pr41\\trpo10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|c:\\voroshilov_pr41\\trpo10\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB1C24D-77D1-44BA-B68B-2680263D0FF9}|trpo10.csproj|solutionrelative:models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemCollection.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs",
+              "ToolTip": "C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAKUGAAAAAAAAAAAEwLYGAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:39:11.458Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Voroshilov_pr41\\trpo10\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Voroshilov_pr41\\trpo10\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:04:03.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Voroshilov_pr41\\trpo10\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Voroshilov_pr41\\trpo10\\Pages\\MainPage.xaml*",
+              "RelativeToolTip": "Pages\\MainPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T04:04:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Voroshilov_pr41\\trpo10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Voroshilov_pr41\\trpo10\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T04:03:13.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Voroshilov_pr41\\trpo10\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "Models\\Computer.cs",
+              "ToolTip": "C:\\Voroshilov_pr41\\trpo10\\Models\\Computer.cs",
+              "RelativeToolTip": "Models\\Computer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T03:42:35.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Voroshilov_pr41\\trpo10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Voroshilov_pr41\\trpo10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T03:34:38.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
